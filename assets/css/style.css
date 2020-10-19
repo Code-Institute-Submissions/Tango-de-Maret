@@ -6,6 +6,10 @@ header {
     margin: 0;
 }
 
+.header-elements {
+    text-align: center;
+}
+
 #nav li {
     padding-right: 35px;
     margin-top: 20px;
