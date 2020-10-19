@@ -23,3 +23,13 @@ a:hover {
     color: #000000;
     text-decoration: none;
 }
+
+/*-------------------------------------- Body */
+
+section.intro {
+    left: 0;
+    right: 0;
+    position: absolute;
+    text-align: center;
+    margin-top: 16rem;
+}
