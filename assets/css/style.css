@@ -42,11 +42,12 @@ section.intro {
     padding-right: 1em;
 }
 
-h2 {
+.intro h2 {
     text-transform: uppercase;
+    padding-bottom: 30px;
 }
 
-h4 {
+.intro h4 {
     padding-bottom: 30px;
 }
 
@@ -54,10 +55,6 @@ h4 {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 16px;
-}
-
-#main h2 {
-    padding-bottom: 30px;
 }
 
 #main p {
@@ -105,22 +102,32 @@ h4 {
 }
 
 .the-dream-left {
-    background-color: #6deeff;
-    border-radius: 2%;
+    background-color: hsl(320, 50%, 32%);
+    border-radius: 10px;
 }
 
 /*--------------------Section "History */
 
 .history { 
-    max-height: 450px;
+    min-height: 450px;
 }
 
 .history-right {
      width: 100%;
-     height: 450px;
+     height: 100%;
      object-fit: cover;
 }
+
+.second-history {
+    min-height: 400px;
+}
+
+.second-history-left {
+    background-color: #920505;
+    border-radius: 10px;
+}
     
+
 /*-------------------- My footer */
 
 .my-footer {
