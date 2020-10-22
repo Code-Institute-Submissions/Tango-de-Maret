@@ -32,6 +32,7 @@ ul a {
 
 #main:hover {
     background-color: #F8DFDD;
+    transition: all 0.4s ease-in-out;
 }
 
 a:hover {
@@ -39,7 +40,7 @@ a:hover {
     text-decoration: none;
 }
 
-/*-------------------------------------- Body */
+/*-------------------------------------- Main Intro */
 
 section.intro {
     left: 0;
@@ -96,6 +97,17 @@ section.intro {
     color: #000000;
 }
 
+@media(max-width: 767px) {
+    .intro {
+    left: 0;
+    right: 0;
+    position: absolute;
+    text-align: center;
+    margin-top: 5em;
+      }
+}  
+
+
 /*------------------------Section "Why Tango?" */
 
 
@@ -120,6 +132,7 @@ section.intro {
 
 .why-tango-left:hover {
     background-color: #F8DFDD;
+    transition: all 0.4s ease-in-out;
 }
 
 /*--------------------Section "The Dream" */
@@ -144,17 +157,18 @@ section.intro {
 
 .the-dream-right:hover {
     background-color: #F8DFDD;
+    transition: all 0.4s ease-in-out;
 }
 
 /*--------------------Section "History */
 
 .history { 
-    min-height: 400px;
+    max-height: 450px;
 }
 
 .history-right {
      width: 100%;
-     height: 100%;
+     height: 450px;
      object-fit: cover;
 }
 
@@ -169,6 +183,7 @@ section.intro {
 
 .history-left:hover {
     background-color: #F8DFDD;
+    transition: all 0.4s ease-in-out;
 }
 
 .second-history {
@@ -191,6 +206,7 @@ section.intro {
 
 .second-history-right:hover {
     background-color: #F8DFDD;
+    transition: all 0.4s ease-in-out;
 }
     
 
@@ -208,12 +224,13 @@ section.intro {
 .lessons-left {
     background-color: #e3736b;
     border-radius: 10px;
+    height: 450px;
 }
 
 .lessons-right {
     text-align: center;
     font-family: "Piazzolla", sans-serif;
-    padding: 40px 20px;
+    padding: 50px 20px;
 }
 
 .events {
@@ -245,10 +262,12 @@ section.intro {
 
 .lessons:hover {
     background-color: #F8DFDD;
+    transition: all 0.4s ease-in-out;
 }
 
 .events-left:hover {
      background-color: #F8DFDD;
+     transition: all 0.4s ease-in-out;
 }
 
 
