@@ -12,7 +12,8 @@ header {
 }
 
 .navbar-nav {
-      padding-left: 35%;
+      margin: auto;
+      padding-left: 15%;
 }
 
 #navtogglebutton {
@@ -51,7 +52,7 @@ section.intro {
 }
 
 #welcome {
-    padding-right: 1em;
+    padding-right: 2%;
 }
 
 .intro h2 {
