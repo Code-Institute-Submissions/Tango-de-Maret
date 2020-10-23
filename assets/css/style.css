@@ -12,13 +12,10 @@ header {
 }
 
 .navbar-nav {
-  float: none;
   text-align: center;
-}
-
-.navbar.navbar-center {
-    margin: auto;
-    padding: auto;
+  width: 100%;
+  justify-content: center;
+  margin-left: 170px;
 }
 
 #navtogglebutton {
