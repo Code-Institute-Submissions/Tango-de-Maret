@@ -97,7 +97,7 @@ section.intro {
     color: #000000;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     section.intro {
     left: 0;
     right: 0;
@@ -135,7 +135,7 @@ section.intro {
     transition: all 0.4s ease-in-out;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .why-tango-left {
      background-color: #F8DFDD;
      width: 100%;
@@ -170,7 +170,7 @@ section.intro {
     transition: all 0.4s ease-in-out;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .the-dream-right {
      background-color: #E5A19E;
      width: 100%;
@@ -205,7 +205,7 @@ section.intro {
     transition: all 0.4s ease-in-out;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .history-left {
      background-color: #DDBBC0;
      width: 100%;
@@ -237,7 +237,7 @@ section.intro {
     transition: all 0.4s ease-in-out;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .second-history-right {
      background-color: #C8929B;
      width: 100%;
@@ -270,7 +270,7 @@ section.intro {
     padding: 50px 20px;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .lessons-right {
      background-color: #DDBBC1;
      width: 100%;
@@ -287,7 +287,7 @@ section.intro {
     object-fit: cover;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .events-right {
      height: 250px;
     }
@@ -299,7 +299,7 @@ section.intro {
     padding: 110px 20px;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
     .events-left {
      background-color: #BB7783;
      width: 100%;
