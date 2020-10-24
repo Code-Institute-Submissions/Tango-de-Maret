@@ -29,7 +29,6 @@ header {
 }
 
 ul a {
-    color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 20px;
@@ -108,7 +107,7 @@ section.intro {
     right: 0;
     position: absolute;
     text-align: center;
-    margin-top: 5em;
+    margin-top: 10em;
     }
 }
 
@@ -258,6 +257,7 @@ section.intro {
 
 .lessons {
     min-height: 450px;
+    padding-top: 50px;
 }
 .lessons-left {
     background-color: #e3736b;
@@ -342,7 +342,7 @@ section.intro {
 .contact-heading {
     font-family: "Piazzolla", sans-serif;
     font-weight: 300;
-    margin-top: 25px;
+    margin-top: 80px;
     margin-bottom: 20px;
 }
 
