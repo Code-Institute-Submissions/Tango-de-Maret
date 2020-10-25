@@ -30,7 +30,7 @@ The purpose of the site is to provide simple, easy to use format evoking interes
 * Replace the text of Classes & Events into calendars so that users can add them into their own calendars to be more UX friendly.
 * To make the page more inviting to tango, add a video with with tango music, creating atmosphere, as music is the most imporant element. I don't have a video with copyright at the moment. 
 
-### Technologies Used ###
+## Technologies Used ##
 
 * HTML, or Hyper Text Markup Language: Used to construct all the pages of this web site; https://developer.mozilla.org/en-US/docs/Web/HTML
 
@@ -46,24 +46,24 @@ The purpose of the site is to provide simple, easy to use format evoking interes
 
 * Chrome DevTools: A set of web developer tools built directly into the Google Chrome browser; https://developers.google.com/web/tools/chrome-devtools
 
-### Design ###
+## Design ##
 
 A standard layout is fully responsive on mobile devices and larger screens.
 
-#### Libraries & Credits #### 
+### Libraries & Credits ###
 
 * FontAwesome for social media icons; https://fontawesome.com/
 * Google fonts: "Piazzolla" (body) & "Montserrat" (navigation bar); https://fonts.google.com/
 * Coolors.co generating colors in the same palette; https://coolors.co/
 * Unsplash for photos; https://unsplash.com/photos/Kx2IgM3Q5jA
 
-### Testing ###
+## Testing ##
 
 * W3C Markup Validation Service Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/ https://jigsaw.w3.org/css-validator/validator; no errors
 
 * WebDev service used to run the site's URL to test it in all aspects; https://web.dev/; 
 
-### Acknowledgements ###
+## Acknowledgements ##
 
 1. Code Institute tutors and my mentor Adegbenga Adeye for guiding me to the right track. 
 2. Code Institute Slack community for all their patience in beginners questions.
