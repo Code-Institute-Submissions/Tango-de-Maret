@@ -46,15 +46,25 @@ The purpose of the site is to provide simple, easy to use format evoking interes
 
 * Chrome DevTools: A set of web developer tools built directly into the Google Chrome browser; https://developers.google.com/web/tools/chrome-devtools
 
-* W3C Markup Validation Service Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/ https://jigsaw.w3.org/css-validator/validator
-
 ### Design ###
 
 A standard layout is fully responsive on mobile devices and larger screens.
 
-#### Libraries #### 
+#### Libraries & Credits #### 
 
 * FontAwesome for social media icons; https://fontawesome.com/
 * Google fonts: "Piazzolla" (body) & "Montserrat" (navigation bar); https://fonts.google.com/
 * Coolors.co generating colors in the same palette; https://coolors.co/
 * Unsplash for photos; https://unsplash.com/photos/Kx2IgM3Q5jA
+
+### Testing ###
+
+* W3C Markup Validation Service Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/ https://jigsaw.w3.org/css-validator/validator; no errors
+
+* WebDev service used to run the site's URL to test it in all aspects; https://web.dev/; 
+
+### Acknowledgements ###
+
+1. Code Institute tutors and my mentor Adegbenga Adeye for guiding me to the right track. 
+2. Code Institute Slack community for all their patience in beginners questions.
+3. Maret Laanes for providing me with all the necessary information and inspiration.
