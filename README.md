@@ -30,7 +30,7 @@ The purpose of the site is to provide simple, easy to use format evoking interes
 * Replace the text of Classes & Events into calendars so that users can add them into their own calendars to be more UX friendly.
 * To make the page more inviting to tango, add a video with with tango music, creating atmosphere, as music is the most imporant element. I don't have a video with copyright at the moment. 
 
-#### Technologies Used ####
+### Technologies Used ###
 
 * HTML, or Hyper Text Markup Language: Used to construct all the pages of this web site; https://developer.mozilla.org/en-US/docs/Web/HTML
 
