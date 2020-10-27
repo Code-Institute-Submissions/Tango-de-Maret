@@ -4,7 +4,7 @@
 
 ![TangodeMaret responsive](assets/photos/responsive.JPG)
 
-"Tango de Maret" is an Argetinean tango dancer's professional website. It is the first Milestone Project created for the "User Centric Frontend" module of my FullStack Software Development Course offered by Code Institute.
+"Tango de Maret" is an Argetinean tango dancer's professional website. It is the first Milestone Project using HTML, CSS and a framework, created for the "User Centric Frontend" module of the FullStack Software Development Course offered by Code Institute.
 
 ## UX ##
 
