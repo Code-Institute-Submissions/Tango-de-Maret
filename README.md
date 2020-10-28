@@ -52,10 +52,12 @@ A standard layout is fully responsive on mobile devices and larger screens.
 
 ### Libraries & Credits ###
 
-* FontAwesome for social media icons; https://fontawesome.com/
-* Google fonts: "Piazzolla" (body) & "Montserrat" (navigation bar); https://fonts.google.com/
-* Coolors.co generating colors in the same palette; https://coolors.co/
-* Unsplash for photos; https://unsplash.com/photos/Kx2IgM3Q5jA
+* FontAwesome for social media icons: https://fontawesome.com/
+* Google fonts: "Piazzolla" (body) & "Montserrat" (navigation bar): https://fonts.google.com/
+* Coolors.co generating colors in the same palette: https://coolors.co/
+* Unsplash for photos: https://unsplash.com/photos/Kx2IgM3Q5jA; https://unsplash.com/photos/5K0U0Gc5Nmk
+* Quote about tango on HOME page: https://psychologytomorrowmagazine.com/tango-a-feeling-that-is-danced/
+* Brief history of tango on HOME page: https://www.adventuresindance.com/2016/01/timeline-for-the-history-of-tango-dance/
 
 ## Testing ##
 
