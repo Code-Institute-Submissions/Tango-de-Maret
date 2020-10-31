@@ -160,6 +160,11 @@ section.intro {
     border-radius: 10px;
 }
 
+.tango-vid {
+    max-width: 100%;
+    height: auto;
+}
+
 .the-dream-right>p {
     text-align: center;
     padding: 20px 20px;
