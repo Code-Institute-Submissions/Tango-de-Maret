@@ -64,10 +64,12 @@ A standard layout is fully responsive on mobile devices and larger screens.
 * [FontAwesome](https://fontawesome.com/): for social media icons.
 * [Google fonts](https://fonts.google.com/): "Piazzolla" (body) & "Montserrat" (navigation bar).
 * [Coolors.co](https://coolors.co/): generating colors in the same palette:
+
   ![Coolors-palette](assets/photos/colors.JPG)
+  
 * Unsplash for photos: photographer- Toufic Mobarak- https://unsplash.com/photos/Kx2IgM3Q5jA; photographer- Axel Eres-  https://unsplash.com/photos/5K0U0Gc5Nmk;
-* [Quote](https://psychologytomorrowmagazine.com/tango-a-feeling-that-is-danced/): Quote about Argentinean tango on HOME page.
-* [Brief](https://www.adventuresindance.com/2016/01/timeline-for-the-history-of-tango-dance/): brief-history of Argentinean tango on HOME page.
+* [Quote-article](https://psychologytomorrowmagazine.com/tango-a-feeling-that-is-danced/): Quote about Argentinean tango on HOME page.
+* [Brief-history](https://www.adventuresindance.com/2016/01/timeline-for-the-history-of-tango-dance/): brief-history of Argentinean tango on HOME page.
 * [Am I Responsive](http://ami.responsivedesign.is/): Mock-up image.
 * Portraits are the property of Maret Laanes.
 
@@ -79,7 +81,7 @@ A standard layout is fully responsive on mobile devices and larger screens.
 ## Testing
 
 * [W3C Markup Validation Service](https://validator.w3.org/): to test HTML code - no errors.
-* [W3C Markup Validator for CSS](https://jigsaw.w3.org/css-validator/validator): to test CSS code - no errors.
+* [W3C Markup Validator for CSS](https://jigsaw.w3.org/css-validator): to test CSS code - no errors.
 * [WebDev](https://web.dev/): service used to run the site's URL - ...
 
 ## Deployment
