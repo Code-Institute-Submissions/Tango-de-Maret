@@ -6,6 +6,8 @@
 
 "Tango de Maret" is an Argetinean tango dancer's professional website. It is the first Milestone Project using HTML, CSS and a framework, created for the "User Centric Frontend" module of the FullStack Software Development Course offered by Code Institute.
 
+Deployed web-site on: [Tango de Maret](https://kadrilaanes.github.io/Tango-de-Maret/)
+
 ### Open links with ctrl + click
 
 ## UX 
@@ -55,6 +57,7 @@ The purpose of the site is to provide simple, fast-loading and  easy to use form
 A standard layout is fully responsive on mobile devices and larger screens.
 
 [Original wireframe](assets/photos/wireframe1.JPG)
+
 [Original wireframe](assets/photos/wireframe2.JPG)
 
 ### Libraries & Credits
@@ -75,8 +78,8 @@ A standard layout is fully responsive on mobile devices and larger screens.
 
 ## Project barriers and solutions
 
-* The resonsiveness of all the different sized text/color/photo section-divisions was a challenge. The text was cut/hidden on smaller resolutions. Therefore I manually set each sections' minimum-height.
-* "Why Tango?" image "portrait-of-Maret" the purpose of the photo diminishes on the Ipad resolutions- working on cutting the photo, so that the face would still be visible.
+* The resonsiveness of all the different sized text/color/photo section-divisions was a challenge. The text was cut/hidden on smaller resolutions. Therefore I manually set each sections' custom minimum-height.
+* "Why Tango?" image "portrait-of-Maret" the purpose of the photo diminishes on the Ipad resolutions, meaning, the face area of the image goes hidden. I am recutting the image for that not to happen.
 
 ## Testing
 
