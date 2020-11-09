@@ -46,7 +46,7 @@ The purpose of the site is to provide simple, fast-loading and  easy to use form
 
 * [Git](https://git-scm.com/): A version control system for tracking changes in source code during software development.
 
-* [GitHub](https://github): A company that provides hosting for software development version control using Git.
+* [GitHub](https://github.com): A company that provides hosting for software development version control using Git.
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools): A set of web developer tools built directly into the Google Chrome browser.
 
