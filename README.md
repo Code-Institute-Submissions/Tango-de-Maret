@@ -80,7 +80,7 @@ A standard layout is fully responsive on mobile devices and larger screens.
 
 ## Testing
 
-You can find testing on a separate file [Testing.md](../testing.md)
+You can find testing on a separate file [Testing.md](testing.md)
 
 ## Deployment
 
