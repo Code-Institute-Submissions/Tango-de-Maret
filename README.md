@@ -80,9 +80,7 @@ A standard layout is fully responsive on mobile devices and larger screens.
 
 ## Testing
 
-* [W3C Markup Validation Service](https://validator.w3.org/): to test HTML code - no errors.
-* [W3C Markup Validator for CSS](https://jigsaw.w3.org/css-validator): to test CSS code - no errors.
-* [WebDev](https://web.dev/): service used to run the site's URL - ...
+You can find testing on a separate file [Testing.md](../testing.md)
 
 ## Deployment
 
