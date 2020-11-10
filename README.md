@@ -23,9 +23,10 @@ The purpose of the site is to provide simple, fast-loading and  easy to use form
 
 ## Features 
 
-* A fixed header - navigation between 4 pages.
+* A fixed header - navigation between 4 pages, fixed, so the user can always navigate.
 * Home - has an introduction to tango, introduction to Maret's dream about tango and a brief over-view of the history of the dance.
 * Classes & Events - an overview of where and when do classes and events take place.
+* Facebook icons- to navigate to the mentioned organisation's facebook communities.
 * About Me - a biography of Maret.
 * Contact - a contact form. 
 * Footer - simple copyright footer.
@@ -81,6 +82,14 @@ A standard layout is fully responsive on mobile devices and larger screens.
 * The resonsiveness of all the different sized text/color/photo section-divisions was a challenge. The text was cut/hidden on smaller resolutions. Therefore I manually set each sections' custom minimum-height.
 * "Why Tango?" image "portrait-of-Maret" the purpose of the photo diminishes on the Ipad resolutions, meaning, the face area of the image goes hidden. I am recutting the image for that not to happen.
 
+## Validation
+
+* Ran code through [HTML Validator](https://validator.w3.org/) - no errors, except a warning "From line 42, column 3; to line 42, column 24- section lacks heading" - because it is an empty element used for styiling in CSS.
+
+* Ran code through [CSS Validator](https://jigsaw.w3.org/css-validator/) - no errors found.
+
+* Created Lighthouse report through Devtools. You can manually access this through [Tango de Maret](https://kadrilaanes.github.io/Tango-de-Maret/), right-click "inspect", in the header click forward arrows, choose "Lighthouse" and pull the report.
+
 ## Testing
 
 You can find testing on a separate file [Testing.md](testing.md)
@@ -90,12 +99,12 @@ You can find testing on a separate file [Testing.md](testing.md)
 1. All of the code was written in GitPod to a GitHub repository.
 2. Under the Settings section of the GitHub, scrolled down to GitHub Pages section.
 3. Under the Source drop-down, the Master branch was selected.
-4. Once selected, this publishes the project to GitHub Pages and displays the site's URL.
+4. Once selected, this publishes the project to GitHub Pages and displays the site's URL [Tango de Maret](https://kadrilaanes.github.io/Tango-de-Maret/).
 5. There is no difference between the deployed version and the development version.
 6. The code can be run locally through clone or download.
 7. You can do this by opening the repository, clicking on the green Code button and selecting either 'clone or download'.
-8. The Clone option provides a URL, which you can use on your desktop IDE.
-9. The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
+8. The [Clone](https://github.com/Kadrilaanes/Tango-de-Maret.git) option provides a URL, which you can use on your desktop IDE.
+9. The Download ZIP option below provides a link to download a ZIP file which can be unzipped on your local machine.
 
 
 ## Acknowledgements
