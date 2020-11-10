@@ -53,6 +53,8 @@ The purpose of the site is to provide simple, fast-loading and  easy to use form
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools): A set of web developer tools built directly into the Google Chrome browser.
 
+* [HTML Formatting](https://www.freeformatter.com/html-formatter.html): to format the GitHub files separately. 
+
 ## Design
 
 A standard layout is fully responsive on mobile devices and larger screens.
