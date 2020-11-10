@@ -80,7 +80,8 @@ A standard layout is fully responsive on mobile devices and larger screens.
 ## Project barriers and solutions
 
 * The resonsiveness of all the different sized text/color/photo section-divisions was a challenge. The text was cut/hidden on smaller resolutions. Therefore I manually set each sections' custom minimum-height.
-* "Why Tango?" image "portrait-of-Maret" the purpose of the photo diminishes on the Ipad resolutions, meaning, the face area of the image goes hidden. I am recutting the image for that not to happen.
+* "Why Tango?" section image "portrait-of-Maret"-  purpose of the photo diminishes on the Ipad width, meaning, the face area of the image goes hidden. The photo needs to be cut so it shifts better.
+* After user testing it was mentioned that after clicking the hero image area arrow to jump to the next section, the title of the "Why Tango?" is hidden. That is due to the space the fixed navbar is taking over. I corrigated the margin and padding of the title and the paragraph. 
 
 ## Validation
 
